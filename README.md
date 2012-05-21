@@ -1,2 +1,1 @@
-May-2012-Starter-
-=================
+Repo for [lolwtfgif.com](http://lolwtfgif.com)
